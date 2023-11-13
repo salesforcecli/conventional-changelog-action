@@ -1,5 +1,9 @@
 # Conventional Changelog action
 
+> **IMPORTANT**
+> This fork is archived. It was created to add support for prereleases.
+> However, the https://github.com/TriPSs/conventional-changelog-action repo now supportes prereleases. Use it instead.
+
 This action will bump version, tag commit and generate a changelog with conventional commits.
 
 ## Inputs
